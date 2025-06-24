@@ -2,6 +2,8 @@
 Zomato Analytics
 
 **Overview**
+--
+
 Zomato, an Indian multinational restaurant aggregator and food delivery company, was founded as FoodieBay in 2008 by Deepinder Goyal and Pankaj Chaddah. Renamed Zomato in 2010, the platform provides information, menus, and user reviews of restaurants, as well as food delivery options from partner restaurants in over 1000 Indian cities and towns.
 Data Description
 The dataset used for this analysis spans from 2010 to 2018 and includes approximately 9551 restaurant records across two sub-datasets: Restaurants_data and Country_data. These datasets contain detailed geographical information and various attributes related to restaurant operations.
