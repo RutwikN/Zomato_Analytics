@@ -7,7 +7,7 @@ Zomato Analytics
 
 **Project Type:** Exploratory Data Analysis (EDA)
 **Tools Used:** Python, MySQL, Excel, Power Query, Power BI
-**Datasets:** `Restaurants_data.csv` & `Country_data.csv`
+**Datasets:** `Restaurants_data.csv` 
 **Records Analyzed:** \~9,551 restaurants across multiple countries
 
 ---
